@@ -50,4 +50,4 @@ If you like what i do, maybe consider buying me a coffe ✌️
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karimabdelhameed&show_icons=true&theme=gotham" alt="karimabdelhameed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karimabdelhameed&count-private=true&show_icons=true&theme=gotham" alt="karimabdelhameed" />
