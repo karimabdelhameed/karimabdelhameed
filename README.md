@@ -21,8 +21,10 @@ Also I've worked for fine startups in Egypt 🇪🇬 like [BlueCrunch](https://w
 
   <img align="right" alt="GIF" src="https://github.com/karimabdelhameed/karimabdelhameed/blob/main/code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:karim.abdelhameed2909@gmail.com) :)
+- <img src="https://img.icons8.com/fluency/20/000000/attach-resume-male.png"/> Updated CV => [karim abdelhameed CV](https://docs.google.com/document/d/1f02guvXJP9DA9Fudpzl6hREcH2VuZtEH/edit?usp=sharing&ouid=105633429763209229227&rtpof=true&sd=true);
+- 💼 any freelance work? do reach, [email](mailto:karim.abdelhameed2909@gmail.com);
 - 💬 ask me about anything, i am happy to help;
+
 
 **languages and tools:**  
 
