@@ -1,9 +1,7 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/karim-abd-elhameed-mohamed-38a8649a/">
-  <img align="left" alt="Karim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=karimabdelhameed.karimabdelhameed">
+<br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=karimabdelhameed.karimabdelhameed)
+[![LinkedIn Badge](https://img.shields.io/badge/karim%20abdelhameed-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-abd-elhameed-mohamed-38a8649a/) 
 
 <br />
 
@@ -50,6 +48,11 @@ If you like what i do, maybe consider buying me a coffe ✌️
 <br />
 
 
-📈 my github stats
+📈 My Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karimabdelhameed&count-private=true&show_icons=true&theme=gotham" alt="karimabdelhameed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karimabdelhameed&show_icons=true&count_private=true&hide=contribs,issue&include_all_commits=true&theme=gotham" alt="karimabdelhameed">
+  
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimabdelhameed&layout=compact&theme=dark" />
+</p>
+
