@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=karimabdelhameed.karimabdelhameed">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=karimabdelhameed.karimabdelhameed">
 <br />
 
 [![LinkedIn Badge](https://img.shields.io/badge/karim%20abdelhameed-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-abd-elhameed-mohamed-38a8649a/) 
