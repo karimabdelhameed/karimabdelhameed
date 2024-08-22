@@ -1,17 +1,17 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=karimabdelhameed.karimabdelhameed">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img align="right" src="https://visitcount.itsvg.in/api?id=karimabdelhameed&icon=4&color=13)](https://visitcount.itsvg.in">
 <br />
 
 [![LinkedIn Badge](https://img.shields.io/badge/karim%20abdelhameed-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-abd-elhameed-mohamed-38a8649a/) 
 
 <br />
 
-Hi, i'm Karim abdelhameed, I am a Software Engineer 💻 , mainly Android , with +7 years of experience, 
+Hi, i'm Karim abdelhameed, I am a Software Engineer 💻 , mainly Android , with +8 years of experience, 
 <br />
 Located at Cairo, Egypt 🇪🇬. Currently, I am a Senior Software Engineer at [Thrive market](https://thrivemarket.com/) in US 🇺🇸 since September 2021.
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-I worked before on a well-known Apps like [valU](https://www.valu.com.eg/), [Toyota](https://toyota.com.eg/en), [Cassbana](https://www.cassbana.com/), [DUB](https://www.dareurbody.com/Doctors), [Scib paints](http://www.scibpaints.com/).
+I worked before on a well-known Apps in Egypt 🇪🇬 like [valU](https://www.valu.com.eg/), [Toyota](https://toyota.com.eg/en), [Cassbana](https://www.cassbana.com/), [DUB](https://www.dareurbody.com/Doctors), [Scib paints](http://www.scibpaints.com/).
 
 <br />
 
@@ -56,3 +56,4 @@ If you like what i do, maybe consider buying me a coffe ✌️
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimabdelhameed&layout=compact&theme=dark" />
 </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimabdelhameed&theme=dark&hide_border=false"</p>
