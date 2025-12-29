@@ -5,13 +5,13 @@
 
 <br />
 
-Hi, i'm Karim abdelhameed, I am a Software Engineer 💻 , mainly Android , with +8 years of experience, 
+Hi, i'm Karim abdelhameed, I am a Software Engineer 💻 , mainly Android , with +9 years of experience, 
 <br />
 Located at Cairo, Egypt 🇪🇬. Currently, I am a Senior Software Engineer at [Thrive market](https://thrivemarket.com/) in US 🇺🇸 since September 2021.
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-I worked before on a well-known Apps in Egypt 🇪🇬 like [valU](https://www.valu.com.eg/), [Toyota](https://toyota.com.eg/en), [Cassbana](https://www.cassbana.com/), [DUB](https://www.dareurbody.com/Doctors), [Scib paints](http://www.scibpaints.com/).
+I worked before on a well-known Apps in Egypt 🇪🇬 like [valU](https://www.valu.com.eg/), [Toyota](https://toyota.com.eg/en), [Cassbana]([https://www.cassbana.com/](https://cassbana.com)), [DUB](https://www.sina-app.com), [Scib paints](http://www.scibpaints.com/).
 
 <br />
 
